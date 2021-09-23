@@ -1,4 +1,4 @@
-# ApnaAnaaj (Crop_Prediction)
+# Crop Price Analysis
 [![Crop Price Analysis](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
 
 ## Features
